@@ -8,7 +8,7 @@ Run the explore.ipynb Python 3 Jupyter Notebook. The cells up until 'Run Analysi
 
 ### Prerequisites
 
-Anaconda, Jupyter Notebook
+Anaconda, Jupyter Notebook. Need the .FITS data file to run analysis on. Currently using Yujing's version 3 database, THEx-catalog.v0_0_3.fits. 
 <!-- 
 ### Installing
 
